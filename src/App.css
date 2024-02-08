@@ -1,0 +1,14 @@
+@media screen and (max-width: 400px) {
+  #banner {
+    padding: 20px;
+    width: 111%;
+  }
+  #about,
+  #footer {
+    width: 111%;
+  }
+
+  #features {
+    width: 110%;
+  }
+}
